@@ -1,13 +1,10 @@
 # mystore
-this a store web system for my family store
+this a store web system for my family store  
+use beego as base frame  
 
-use beego as base frame
+***
+## main function：
 
-
-main function：
-
-Managing customer information
-
-Receiving user orders
-
+Managing customer information   
+Receiving user orders  
 Statistical analysis of customer order information
