@@ -9,10 +9,10 @@ ADD mystore /app/mystore
 ADD static /app/mystore
 ADD views /app/mystore
 # Make port 80 available to the world outside this container
-EXPOSE 80
+EXPOSE 8081
 
 # Define environment variable
 WORKDIR /app/mystore
 
 # Run app.py when the container launches
-ENTRYPOINT ["/app/mystore"]
+ENTRYPOINT ["/app/mystore/mystore"]
