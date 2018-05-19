@@ -1,5 +1,5 @@
 # mystore
-this a store web system for my family store  
+ this a store web system for my family store  
 use beego as base frame  
 
 ***
@@ -8,3 +8,8 @@ use beego as base frame
 Managing customer information   
 Receiving user orders  
 Statistical analysis of customer order information
+
+***
+## commit history
+
+0.1 base version
