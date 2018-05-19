@@ -15,4 +15,5 @@ EXPOSE 8081
 WORKDIR /app/mystore
 
 # Run app.py when the container launches
+
 ENTRYPOINT ["/app/mystore/mystore"]
